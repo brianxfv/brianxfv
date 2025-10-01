@@ -29,8 +29,6 @@ Aquí puedes ver mis estadísticas recientes, que se actualizan automáticamente
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=brianxfv&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianxfv&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
