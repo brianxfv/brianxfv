@@ -1,18 +1,25 @@
 # ✨ Hola, soy @brianxfv ✨
-### Desarrollador Full-Stack con foco en el rendimiento y diseño.
+### Desarrollador Full-Stack con foco en el rendimiento y diseño web.
 
-Me dedico a transformar ideas en proyectos web rápidos y funcionales. Mi objetivo es simple: construir soluciones de calidad usando las mejores herramientas.
+Me dedico a transformar ideas en proyectos rápidos y funcionales. Mi objetivo es simple: construir soluciones de calidad usando las mejores herramientas.
 
 ---
 
 ## 🛠️ Mi Caja de Herramientas (Stack Principal)
 
-| Área | Tecnologías Clave | Lo que más disfruto |
-| :--- | :--- | :--- |
-| **Frontend Veloz** | **Astro**, JavaScript, HTML5, CSS3 | Lograr tiempos de carga casi instantáneos. |
-| **Estilos** | **Tailwind CSS**, Bootstrap | Crear diseños limpios y responsivos sin esfuerzo. |
-| **Backend Robusto** | **PHP**, **Java** | La lógica detrás de escena y el control del servidor. |
-| **Datos** | **MySQL** | Organizar y optimizar la información. |
+<p align="center">
+    <img src="https://img.shields.io/badge/Astro-FF6C00?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <br>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <br>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ---
 
@@ -22,6 +29,8 @@ Aquí puedes ver mis estadísticas recientes, que se actualizan automáticamente
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=brianxfv&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianxfv&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -41,8 +50,14 @@ Aunque no tengo proyectos aún (¡eso cambiará pronto!), estoy usando mi conoci
 
 Siempre estoy abierto a aprender, colaborar en un proyecto o simplemente hablar de tecnología. ¡No dudes en contactarme!
 
-* **LinkedIn:** www.linkedin.com/in/brianxfv ⬅️
-* **Correo Electrónico:** briangimenez766@gmail.com ⬅️
+<p align="center">
+    <a href="https://www.linkedin.com/in/brianxfv">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:briangimenez766@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
+    </a>
+</p>
 
 <p align="center">
     Gracias por tu visita. ¡Ya somos <img src="https://komarev.com/ghpvc/?username=brianxfv&style=flat-square&color=blue" alt="Contador de Visitas" /> visitantes!
