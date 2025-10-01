@@ -43,8 +43,8 @@ Aunque no tengo proyectos aún (¡eso cambiará pronto!), estoy usando mi conoci
 
 Siempre estoy abierto a aprender, colaborar en un proyecto o simplemente hablar de tecnología. ¡No dudes en contactarme!
 
-* **LinkedIn:** www.linkedin.com/in/brianxfv ⬅️ **¡No olvides reemplazar esto!**
-* **Correo Electrónico:** briangimenez766@gmail.com ⬅️ **¡No olvides reemplazar esto!**
+* **LinkedIn:** www.linkedin.com/in/brianxfv ⬅️
+* **Correo Electrónico:** briangimenez766@gmail.com ⬅️
 
 <p align="center">
     Gracias por tu visita. ¡Ya somos <img src="https://komarev.com/ghpvc/?username=brianxfv&style=flat-square&color=blue" alt="Contador de Visitas" /> visitantes!
