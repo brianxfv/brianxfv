@@ -1,4 +1,4 @@
-# 🚀 Hola, soy @[TuNombreDeUsuario]
+# 🚀 Hola, soy @brianxfv
 ### Estudiante de Ingeniería Informática | Desarrollador Full-Stack
 
 Soy un desarrollador apasionado por convertir ideas en soluciones web rápidas y escalables. Actualmente, estoy enfocado en el desarrollo **Full-Stack**, desde el diseño de interfaces modernas hasta la lógica robusta del lado del servidor.
