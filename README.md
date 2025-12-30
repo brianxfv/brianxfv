@@ -1,73 +1,73 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ¡Hola! Mi nombre es:
-# **Tu Nombre Aquí** 
-
-💡 Subtitle:  
-Desarrollador Full-Stack | Apasionado por la tecnología, el código limpio y el aprendizaje constante ☕🚀
-
-✏️ About me  
-¡Bienvenido a mi perfil! Soy un desarrollador con experiencia en múltiples lenguajes y tecnologías. Me encanta construir aplicaciones robustas, escalables y modernas, desde backend hasta frontend, incluyendo algo de DevOps, Cloud y hasta Web3. Siempre estoy explorando nuevas herramientas y contribuyendo a proyectos open source.  
-
-Cuando no estoy codificando, disfruto de [tu hobby, ej: leer sci-fi, jugar videojuegos o viajar] 😎.
-
-🌍 I'm based in:  
-[Tu ciudad / país, ej: Madrid, España 🇪🇸 | Remoto 🌍]
-
-🖥️ See my portfolio:  
-https://tu-portfolio.com (o tu LinkedIn / web personal)
-
-✉️ Contact me at:  
-tuemail@ejemplo.com
-
-🚀 I'm currently working on:  
-[Ej: Una aplicación full-stack con Next.js y NestJS | https://github.com/tu-usuario/tu-proyecto]
-
-🧠 I'm currently learning:  
-[Ej: Más sobre Kubernetes, Rust y IA con PyTorch/TensorFlow]
-
-🤝 I'm open to collaborating on:  
-Proyectos interesantes en web development, backend, DevOps o Web3. ¡Si tienes una idea, contáctame!
-
-⚡ Anything else:  
-Dato curioso: Domino un stack bien amplio, desde C++ hasta Solana, y siempre con un café en la mano ☕
-
-## 💻 Mis Tecnologías y Herramientas
-
-<p align="left">
-
-<!-- Lenguajes principales -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring" /></a> <!-- Nota: Usa spring-colored.svg si existe, o spring-boot -->
-
-<!-- Frontend -->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-
-<!-- Backend & DB -->
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
-<!-- DevOps & Cloud -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave" />
 </p>
 
-> **Nota**: Este es un ejemplo con algunas de tus tecnologías principales. Si quieres agregar más (como Rust, Python, Solidity para Web3, Figma, etc.), dime cuáles priorizar y te agrego los íconos correspondientes (muchos existen en el mismo repositorio).
+<h1 align="center">¡Hola! Soy [Tu Nombre Aquí] 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;Apasionado+por+el+c%C3%B3digo+limpio+%F0%9F%92%BB;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas+%F0%9F%9A%80;+Caf%C3%A9+%26+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Desarrollador versátil con un stack amplio: desde lenguajes clásicos hasta frameworks modernos, DevOps, Cloud y más. Me encanta construir soluciones escalables y explorar nuevas herramientas.
+</p>
+
+<div align="center">
+
+🌍 **Basado en:** [Tu ciudad/país, ej: España 🇪🇸 | Remoto 🌍]  
+🖥️ **Portfolio:** [https://tu-portfolio.com]  
+✉️ **Contacto:** tuemail@ejemplo.com  
+🚀 **Trabajando en:** [Link a tu proyecto actual]  
+🧠 **Aprendiendo:** [ej: Más Kubernetes y IA]  
+🤝 **Abierto a colaborar en:** Proyectos open source innovadores  
+
+⚡ **Fun fact:** Domino más de 50 tecnologías y siempre con un café en la mano ☕
+
+</div>
+
+<br>
+
+## 💻 Mi Stack de Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,spring,kotlin,dart,go,js,ts,python,rust,swift,ruby,php,perl,lua,coffeescript&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=bash,vscode,vim,neovim,emacs,sublime,xcode&perline=8" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,chakra,bootstrap,materialui,redux,react,nextjs,vue,nuxt,gatsby,angular,jquery,svelte,vite,remix,astro,qwik,solidjs&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,mongodb,mysql,postgres,firebase,supabase&perline=9" /><br><br>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,xd,figma,sketch&perline=8" /><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,pytorch,tensorflow&perline=8" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,linux,macos,ubuntu,fedora,arduino,raspberrypi,wordpress,framer&perline=9" />
+</p>
+
+> (Íconos generados con [skillicons.dev](https://skillicons.dev) – ¡los más aesthetic del 2025! 😎)
+
+<br>
 
 ## 📊 Mis Estadísticas en GitHub
 
-![Tu GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
-¡Gracias por visitar mi perfil! ⭐ Si te gusta lo que ves, no dudes en dar star a mis repos o seguirme. ¡Hablemos de código! 👋
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+
+</div>
+
+<p align="center">
+  ¡Gracias por visitar mi perfil! ⭐ Si te gustó, dame follow o star a mis repos. ¡Hablemos de proyectos! 🚀
+</p>
