@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-age-years="18" data-age-months="3" data-age-days="28" data-age-as-of="2026-10-27" data-stat-repos="1" data-stat-contributed="1" data-stat-stars="0" data-stat-commits="51" data-stat-followers="2" data-stat-lines="773" data-stat-additions="3,406" data-stat-deletions="2,633" width="985px" height="530px" viewBox="0 0 985 530" fill="#c9d1d9" font-family="ConsolasFallback, Consolas, monospace" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-age-years="18" data-age-months="3" data-age-days="29" data-age-as-of="2026-10-28" data-stat-repos="1" data-stat-contributed="1" data-stat-stars="0" data-stat-commits="1" data-stat-followers="2" data-stat-lines="770" data-stat-additions="770" data-stat-deletions="0" width="985px" height="530px" viewBox="0 0 985 530" fill="#c9d1d9" font-family="ConsolasFallback, Consolas, monospace" font-size="16px">
 <style>
   @font-face {
     src: local('Consolas'), local('Consolas Bold');
@@ -57,7 +57,7 @@
 <tspan x="15" y="498">                       .*%#+    . ...   :..</tspan></text>
 <text x="390" y="30" fill="#c9d1d9"><tspan x="390" y="30">brian@root</tspan> -————————————————————————————————————————————————</text>
 <text x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Android 17, Linux</tspan></text>
-<text x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">18 years, 3 months, 28 days</tspan></text>
+<text x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">18 years, 3 months, 29 days</tspan></text>
 <text x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Uruguay</tspan></text>
 <text x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Full-Stack Developer</tspan></text>
 <text x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">IDEA 2026.2.3, Cursor, Codex</tspan></text>
@@ -76,9 +76,9 @@
 <text x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">1</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">1</tspan>} </text>
 <text x="745.2" y="470">|</text>
 <text x="764.4" y="470"><tspan class="key">Stars</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">0</tspan></text>
-<text x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">51</tspan> </text>
+<text x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">1</tspan> </text>
 <text x="745.2" y="490">|</text>
 <text x="764.4" y="490"><tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">2</tspan></text>
-<text x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">...... </tspan><tspan class="value">773</tspan> </text>
-<text x="745.2" y="510"><tspan>( </tspan><tspan class="addColor">3,406</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">2,633</tspan><tspan class="delColor">--</tspan> )</text>
+<text x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">...... </tspan><tspan class="value">770</tspan> </text>
+<text x="745.2" y="510"><tspan>( </tspan><tspan class="addColor">770</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">0</tspan><tspan class="delColor">--</tspan> )</text>
 </svg>
