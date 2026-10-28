@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="102" viewBox="0 0 960 102" role="img" aria-labelledby="title desc">
+  <title id="title">Sistema visual de Brian Gimenez</title>
+  <desc id="desc">Seis tonos vivos: tinta, violeta, aqua, guava, sol y nube; cada uno tiene una función.</desc>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(2 8)">
+      <rect width="145" height="64" rx="3" fill="#0D0C22" stroke="#564a86"/>
+      <path d="M10 52h125" stroke="#8E60FF" stroke-opacity=".9"/>
+      <text x="10" y="26" fill="#F8F6FF" font-size="13" font-weight="600">TINTA</text>
+      <text x="10" y="44" fill="#BEB9D9" font-family="Consolas,monospace" font-size="8.4">#0D0C22 · base</text>
+    </g>
+    <g transform="translate(162 8)">
+      <rect width="145" height="64" rx="3" fill="#8E60FF"/>
+      <path d="M10 52h125" stroke="#0D0C22" stroke-opacity=".55"/>
+      <text x="10" y="26" fill="#0D0C22" font-size="13" font-weight="700">VIOLETA</text>
+      <text x="10" y="44" fill="#25104d" font-family="Consolas,monospace" font-size="8.4">#8E60FF · energía</text>
+    </g>
+    <g transform="translate(322 8)">
+      <rect width="145" height="64" rx="3" fill="#2CEDDA"/>
+      <path d="M10 52h125" stroke="#0D0C22" stroke-opacity=".42"/>
+      <text x="10" y="26" fill="#0D0C22" font-size="13" font-weight="700">AQUA</text>
+      <text x="10" y="44" fill="#16423f" font-family="Consolas,monospace" font-size="8.4">#2CEDDA · recorrido</text>
+    </g>
+    <g transform="translate(482 8)">
+      <rect width="145" height="64" rx="3" fill="#FF6EA9"/>
+      <path d="M10 52h125" stroke="#0D0C22" stroke-opacity=".42"/>
+      <text x="10" y="26" fill="#24102a" font-size="13" font-weight="700">GUAVA</text>
+      <text x="10" y="44" fill="#4e1838" font-family="Consolas,monospace" font-size="8.4">#FF6EA9 · interacción</text>
+    </g>
+    <g transform="translate(642 8)">
+      <rect width="145" height="64" rx="3" fill="#FFCC58"/>
+      <path d="M10 52h125" stroke="#0D0C22" stroke-opacity=".42"/>
+      <text x="10" y="26" fill="#2a2112" font-size="13" font-weight="700">SOL</text>
+      <text x="10" y="44" fill="#4b3515" font-family="Consolas,monospace" font-size="8.4">#FFCC58 · foco</text>
+    </g>
+    <g transform="translate(802 8)">
+      <rect width="145" height="64" rx="3" fill="#F8F6FF" stroke="#d9d0f1"/>
+      <path d="M10 52h125" stroke="#0D0C22" stroke-opacity=".2"/>
+      <text x="10" y="26" fill="#0D0C22" font-size="13" font-weight="600">NUBE</text>
+      <text x="10" y="44" fill="#57516e" font-family="Consolas,monospace" font-size="8.4">#F8F6FF · lectura</text>
+    </g>
+  </g>
+  <text x="4" y="94" fill="#7b719c" font-family="Consolas,monospace" font-size="9" letter-spacing="1.3">COLOR CON FUNCIÓN · CONTRASTE · JERARQUÍA</text>
+  <text x="956" y="94" text-anchor="end" fill="#7b719c" font-family="Consolas,monospace" font-size="9" letter-spacing="1.3">BG / VISUAL SYSTEM 02</text>
+</svg>
