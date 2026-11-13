@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-age-years="18" data-age-months="4" data-age-days="14" data-age-as-of="2026-11-12" data-stat-repos="1" data-stat-contributed="1" data-stat-stars="0" data-stat-commits="1" data-stat-followers="2" data-stat-lines="770" data-stat-additions="770" data-stat-deletions="0" width="985px" height="530px" viewBox="0 0 985 530" fill="#24292f" font-family="ConsolasFallback, Consolas, monospace" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-age-years="18" data-age-months="4" data-age-days="15" data-age-as-of="2026-11-13" data-stat-repos="1" data-stat-contributed="1" data-stat-stars="0" data-stat-commits="1" data-stat-followers="2" data-stat-lines="770" data-stat-additions="770" data-stat-deletions="0" width="985px" height="530px" viewBox="0 0 985 530" fill="#c9d1d9" font-family="ConsolasFallback, Consolas, monospace" font-size="16px">
 <style>
   @font-face {
     src: local('Consolas'), local('Consolas Bold');
@@ -8,16 +8,16 @@
     -webkit-size-adjust: 109%;
     size-adjust: 109%;
   }
-  .key { fill: #953800; }
-  .value { fill: #0a3069; }
-  .cc { fill: #c2cfde; }
-  .addColor { fill: #1a7f37; }
-  .delColor { fill: #cf222e; }
-  .ascii { fill: #24292f; }
+  .key { fill: #ffa657; }
+  .value { fill: #a5d6ff; }
+  .cc { fill: #616e7f; }
+  .addColor { fill: #3fb950; }
+  .delColor { fill: #f85149; }
+  .ascii { fill: #c9d1d9; }
   a { text-decoration: none; }
   text, tspan { white-space: pre; }
 </style>
-<rect width="985" height="530" fill="#f6f8fa" rx="15"/>
+<rect width="985" height="530" fill="#161b22" rx="15"/>
 <text x="15" y="30" class="ascii" font-size="12px" xml:space="preserve"><tspan x="15" y="30">@@@*@#*@+-#+@+@#**#=+-:... ...-=*%=++=*%#%@@%%@+#%</tspan>
 <tspan x="15" y="43">#*#+#*+#+=*+**##+=.             ..:+%**#####**#*#*</tspan>
 <tspan x="15" y="56">:::-::-:------:                  . .::-=+===+==+++</tspan>
@@ -55,9 +55,9 @@
 <tspan x="15" y="472">                 -  -*%@%%%%%#-. =-  .  ::.      .</tspan>
 <tspan x="15" y="485">                 :    .#%%%%*.   .. ..  ::</tspan>
 <tspan x="15" y="498">                       .*%#+    . ...   :..</tspan></text>
-<text x="390" y="30" fill="#24292f"><tspan x="390" y="30">brian@root</tspan> -————————————————————————————————————————————————</text>
+<text x="390" y="30" fill="#c9d1d9"><tspan x="390" y="30">brian@root</tspan> -————————————————————————————————————————————————</text>
 <text x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Android 17, Linux</tspan></text>
-<text x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">18 years, 4 months, 14 days</tspan></text>
+<text x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">18 years, 4 months, 15 days</tspan></text>
 <text x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Uruguay</tspan></text>
 <text x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Full-Stack Developer</tspan></text>
 <text x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">IDEA 2026.2.3, Cursor, Codex</tspan></text>
